@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="TestAll">
+
+	<test name="TestNG Annotation">
+		<classes>
+			<class name ="com.TestCase.Evaly"/>
+		</classes>
+	</test>
+</suite>
